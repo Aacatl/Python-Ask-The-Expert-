@@ -1,2 +1,2 @@
 # Python-Ask-The-Expert-
-Exercise
+Exercises and building app tutorial
